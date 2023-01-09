@@ -1,16 +1,27 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**EberthCastro/EberthCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<?php
 
-Here are some ideas to get you started:
+namespace EberthCastro;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class About extends Me
+{
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Reactjs::class,
+            TypeScript::class,
+            Javascript::class,
+            Sass::class,
+            Html::class,            
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to help';
+    }
+}
