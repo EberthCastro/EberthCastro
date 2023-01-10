@@ -37,6 +37,6 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
     </a>   
     
-    </p>
+    
 
 </div>
