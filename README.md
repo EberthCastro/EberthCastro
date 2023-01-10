@@ -15,18 +15,28 @@
  <div style="display: inline_block"><br>
   Technical resources:
     <p>  
-    <a href="https://documentacion-html5.tech/" target="blank" style='margin-right:4px'> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> 
-     </a>
-       <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" style='margin-right:4px'><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
-     </a>
-       
-       </p>
-          
-  <img align="center" alt="sass" height="30" width="40" src="https://user-images.githubusercontent.com/104316263/211382253-5a97c30f-a062-4d3a-8725-46e0d280e171.png">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="mysql" height="30" width="40" src="https://user-images.githubusercontent.com/104316263/211383264-c948febc-d97b-4979-8a1c-e8fe066b5f7c.png">
+    <a href="https://documentacion-html5.tech/" target="blank" style='margin-right:4px'>
+       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> 
+    </a>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" style='margin-right:4px'>
+        <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
+    </a>
+    <a href="https://sass-lang.com/documentation/" target="blank" style='margin-right:4px'>                 
+        <img align="center" alt="sass" height="30" width="40" src="https://user-images.githubusercontent.com/104316263/211382253-5a97c30f-a062-4d3a-8725-46e0d280e171.png">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" style='margin-right:4px'>        
+      <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </a>
+    <a href="https://reactjs.org/docs/getting-started.html" target="blank" style='margin-right:4px'>    
+      <img align="center" alt="React Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </a>   
+    <a href="https://www.typescriptlang.org/docs/" target="blank" style='margin-right:4px'> 
+      <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+    </a>      
+    <a href="https://laravel.com/docs/9.x" target="blank" style='margin-right:4px'> 
   <img align="center" alt="Laravel" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
+    </a>   
+    
+    </p>
 
 </div>
