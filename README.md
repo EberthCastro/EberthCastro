@@ -16,10 +16,10 @@
   Technical resources:
   
     <a href="https://documentacion-html5.tech/" target="blank" style='margin-right:4px'>
-       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> 
      </a>
        <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank" style='margin-right:4px'>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
      </a>
           
   <img align="center" alt="sass" height="30" width="40" src="https://user-images.githubusercontent.com/104316263/211382253-5a97c30f-a062-4d3a-8725-46e0d280e171.png">
