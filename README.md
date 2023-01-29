@@ -42,4 +42,4 @@
 
 </div>
 
-<div> [![GitHub Streak](https://streak-stats.demolab.com?user=EberthCastro&theme=highcontrast&background=000000)](https://git.io/streak-stats)</div>
+<div> [GitHub Streak](https://streak-stats.demolab.com?user=EberthCastro&theme=highcontrast&background=000000)](https://git.io/streak-stats)</div>
