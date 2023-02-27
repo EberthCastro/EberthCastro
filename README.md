@@ -7,11 +7,11 @@
 - 📫 How to reach me: [https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://www.linkedin.com/in/eberth-i-castro/)
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/EberthCastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EberthCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EberthCastro&layout=compact&langs_count=16&theme=dracula&include_all_commits=truecount_private=true"/>
-</div>
+</div> -->
 
  <div style="display: inline_block"><br>
   Technical resources:
