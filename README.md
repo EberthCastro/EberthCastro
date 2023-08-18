@@ -27,6 +27,9 @@
   <img width="12" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://proximahost.es/blog/wp-content/uploads/2022/05/Laravel.jpg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  
   
 </div>
 
