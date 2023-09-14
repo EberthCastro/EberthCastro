@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Laravel <br>🎯 Goals: Keep Coding<br>🎲 Fun fact: .Im Dancer</p>
+<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning Typescript with NestJs <br>🎯 Goals: Keep Coding...<br>🎲 Fun fact: Im Dancer and a good one.</p>
 
 ###
 
